@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanil-pal-48370b223/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Sanil011) 
 
 ## 📕Latest Blog
-[Preventing Parent Event When Child Event Is Triggered](https://sanil.hashnode.dev/javascript-preventing-parent-event-when-child-event-is-triggered)
+[Preventing Parent Event When Child Event Is Triggered](https://sanil.hashnode.dev/javascript-preventing-parent-event-when-child-event-is-triggered) <br/>
 [Asynchronous vs Synchronous](https://sanil.hashnode.dev/synchronous-vs-asynchronous)
 
 # 💻 Tech Stack:
