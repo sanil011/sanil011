@@ -1,6 +1,6 @@
 
 🔭 I'm currently learning next.js.<br>🤝I'm looking for help in backend development.<br>💬Ask me about react or front end development<br>→My portfolio https://portfolio-sanil011.vercel.app/ <br>
-Resume - https://drive.google.com/file/d/1J3mi5pI6hTDe2kzV50_sjKO7b2u8faEL/view?usp=sharing
+Resume - <a href='https://drive.google.com/file/d/1J3mi5pI6hTDe2kzV50_sjKO7b2u8faEL/view?usp=sharing'>Click here</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanil-pal-48370b223/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Sanil011) 
